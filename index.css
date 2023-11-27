@@ -6,10 +6,13 @@ body {
 
 .box1 {
     background-color: rgba(222, 184, 135, 0.76);
-    width: 85%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-right: 10%;
+    margin-left: 10%;
     height: 100%;
     padding: 15%;
-    font-size: xx-large;
+    font-size: 36;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
