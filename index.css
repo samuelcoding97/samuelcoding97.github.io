@@ -1,12 +1,12 @@
 body {
-    background-color: lightblue;
+    background-color: brown;
     display: flex;
-    margin: auto;
+    justify-content: center;
 }
 
 .box1 {
     background-color: burlywood;
+    display: flex;
     width: 75%;
-    margin: 10%;
-
+    height: 100%;
 }
