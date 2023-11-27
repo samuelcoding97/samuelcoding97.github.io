@@ -6,7 +6,11 @@ body {
 
 .box1 {
     background-color: burlywood;
-    display: flex;
     width: 75%;
     height: 100%;
+    margin: 15%;
+}
+
+.pictures {
+    justify-content: center;
 }
