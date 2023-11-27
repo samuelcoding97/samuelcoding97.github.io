@@ -8,7 +8,9 @@ body {
     background-color: rgba(222, 184, 135, 0.76);
     width: 85%;
     height: 100%;
-    border: 15%;
+    padding: 15%;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
 }
 
