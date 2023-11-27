@@ -1,3 +1,9 @@
 body {
     background-color: lightblue;
+    display: flex;
+}
+
+.box1 {
+    background-color: burlywood;
+    width: 75%;
 }
